@@ -70,8 +70,8 @@ module.exports = {
     /* ... */
   ],
   social: {
-    twitter: "https://twitter.com/_Rodrigo-Nogueira",
-    linkedin: "https://www.linkedin.com/in/Rodrigo-Nogueira",
+    twitter: "https://twitter.com/#",
+    linkedin: "https://www.linkedin.com/in/rodrigo-nogueira-41rdg6br",
     github: "https://github.com/41RDG6BR",
     email: "rdg6design@gmail.com"
   },
