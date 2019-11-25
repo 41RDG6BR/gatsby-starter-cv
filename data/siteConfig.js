@@ -1,5 +1,5 @@
 module.exports = {
-  siteTitle: 'Hi! I\'m Rodrigo!',
+  siteTitle: 'Oi! Meu nome é, Rodrigo!',
   siteDescription: `Create your online curriculum in just a few minutes with this starter`,
   keyWords: ['gatsbyjs', 'react', 'curriculum'],
   authorName: 'Rodrigo Nogueira',
@@ -9,7 +9,7 @@ module.exports = {
   authorDescription: `Developer, passionate about what I do. Always interested in how the sites were made, I started to study HTML by hobby. <br />
     In 2012 I started working as a support technician and I approached the developers.
     In 2015, I started to study C # and started to contribute with the team giving maintenance in an application in C # and .NET. <br />
-    I currently work as a frontend developer and mainly work with <strong>Javascript, NodeJS e React.</strong>`,
+    I currently work as a frontend developer and mainly work with <strong>Javascript e React.</strong>`,
   skills: [
     {
       name: 'HTML',
@@ -17,11 +17,11 @@ module.exports = {
     },
     {
       name: 'CSS',
-      level: 60
+      level: 50
     },
     {
       name: 'Javascript',
-      level: 50
+      level: 60
     },
     {
       name: 'NodeJs',
@@ -38,31 +38,32 @@ module.exports = {
   ],
   jobs: [
     {
-      company: "Lendico",
+      company: "OpenWings",
       begin: {
-        month: 'apr',
+        month: 'Nov',
         year: '2018'
       },
       duration: null,
-      occupation: "Frontend developer",
-      description: "I integrate the Frontend team responsible for developing and maintaining the online lending platform."
+      occupation: "Desenvolvedor frontend",
+      description: "Eu integrei o time de desenvolvimento no frontend."
+       
   
     }, {
-      company: "Anapro",
+      company: "Meu Primo",
       begin: {
-        month: 'dec',
+        month: 'dez',
         year: '2016'
       },
-      duration: '1 yr e 5 mos',
-      occupation: "Developer",
+      duration: '1 ano e 5 meses',
+      occupation: "Desenvolvedor",
       description: "Development and maintenance, corrective and preventive, of web applications for the real estate market."
     }, {
-      company: "Anapro",
+      company: "Freelance Software Engineer",
       begin: {
         month: 'set',
-        year: '2012'
+        year: '2015'
       },
-      duration: '4 yrs e 3 mos',
+      duration: '4 anos e 3 meses',
       occupation: "Support Technician",
       description: "Responsible for the implementation and parameterization of the system, training and customer support. Acting also in person in real estate launches guaranteeing the success and good use of the tool."
   
